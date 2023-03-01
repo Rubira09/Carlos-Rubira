@@ -1,0 +1,12 @@
+{
+
+    "name": "git/git",
+    "description": "Aula Git",
+    "autoload": {
+        "psr-4": {
+            "app\\":"App"
+        }
+    }
+
+
+}
